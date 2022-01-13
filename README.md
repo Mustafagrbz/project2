@@ -1,2 +1,2 @@
-# project2
-Final Project
+# Final Project
+Bilgisayar Mühendisliği Tasarımı
